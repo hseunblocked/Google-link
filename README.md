@@ -1,4 +1,4 @@
-# Google link ↓
+# Google link ↓ (DON'T SNITCH)
 https://www.google.com/
 
 Sites working:
