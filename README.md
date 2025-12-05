@@ -1,6 +1,6 @@
-# Google link ↓ (DON'T SNITCH)
+# Google link ↓
 https://www.google.com/
 
-Sites working:
+webSites working:
 
 tubi, netflix, youtube unrestricted, paramount+, hbo max, disney+, peacock, amazon prime video
